@@ -5,4 +5,8 @@ stashy
 st2
 st3
 st4
+<<<<<<< Updated upstream
 st6
+=======
+st5
+>>>>>>> Stashed changes
