@@ -6,7 +6,11 @@ st2
 st3
 st4
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 st6
+=======
+st5
+>>>>>>> Stashed changes
 =======
 st5
 >>>>>>> Stashed changes
