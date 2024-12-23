@@ -15,4 +15,3 @@ dd
 rv1
 rv2
 salama
-njam
